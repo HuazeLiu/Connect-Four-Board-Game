@@ -5,24 +5,27 @@ Author: Huaze Liu
 
 Date: Backend 2022.12 & Frontend 2024.4
 
-`connect-four/
+
+## Project Structure
+
+connect-four/
 │
 ├── backend/
-│   ├── connect4.py
-│   ├── app.py
-│   ├── venv/
-│   └── requirements.txt
+│ ├── connect4.py
+│ ├── app.py
+│ ├── venv/
+│ └── requirements.txt
 │
 ├── frontend/
-│   ├── src/
-│   │   ├── App.css
-│   │   ├── App.js
-│   │   ├── index.css
-│   │   ├── index.js
-│   │   └── ...
-│   ├── public/
-│   ├── package.json
-│   └── ...
+│ ├── src/
+│ │ ├── App.css
+│ │ ├── App.js
+│ │ ├── index.css
+│ │ ├── index.js
+│ │ └── ...
+│ ├── public/
+│ ├── package.json
+│ └── ...
 │
 ├── .gitignore
-└── README.md`
+└── README.md
