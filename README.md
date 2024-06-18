@@ -2,9 +2,10 @@
 This project is a web-based Connect Four game, where the game logic is implemented in Python using Flask for the backend, and React is used for the frontend.
 
 Author: Huaze Liu
+
 Date: Backend 2022.12 & Frontend 2024.4
 
-connect-four/
+`connect-four/
 │
 ├── backend/
 │   ├── connect4.py
@@ -24,4 +25,4 @@ connect-four/
 │   └── ...
 │
 ├── .gitignore
-└── README.md
+└── README.md`
